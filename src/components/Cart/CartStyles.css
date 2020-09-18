@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.clearcartbtn{
+    border: 1px solid red;
+    padding: 10px;
+    width: 250px;
+    background-color: transparent;
+    text-transform: uppercase;
+    margin-right: 50px;
+}
+.valueContainer{
+    margin-left: 800px;
+}
+.fa-trash{
+    font-size: 1.7rem;
+    color: red;
+}
+.add-btn,.minus-btn{
+    border: 1px solid gray;
+    cursor: pointer;
+    background: gray;
+    padding: 10px;
+}
+.count-btn{
+    border: 1px solid gray;
+    padding: 10px;
+
+}
+.cartheading{
+    background-color: yellow;
+    padding: 10px;
+}
+.shoppingcartheading{
+    margin-top: 80px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+}
+.empty{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 160px;
+    text-transform: uppercase;
+}
+.totalpricecontainer{
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #f6eed5;
+    width: 400px;
+    margin-left:-100px;
+}
+.checkoutbtn{
+    padding: 10px;
+    width: 100px;
+    background-color: green;
+    width: 250px;
+    text-transform: uppercase;
+    border: 1px solid green;
+
+}
+.totalpricebuttons{
+    margin-top: 60px;
+    margin-left: -250px;
+}
+.text-title{
+    margin-left: 100px;
+}

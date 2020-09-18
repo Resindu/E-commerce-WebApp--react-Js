@@ -1,0 +1,50 @@
+.favImg{
+    width: 150px;
+    height: 150px;
+}
+.favitembox{
+    box-shadow:2px 2px 5px 0px rgba(0,0,0,0.5);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.favImgContainer{
+    margin-left: 200px;
+
+}
+.favTitle{
+    font-size: 18px;
+}
+.favPrice{
+    font-size: 20px;
+    font-weight: lighter;
+
+}
+.favInfo{
+    font-size: 16px;
+
+}
+.remove-btn{
+    border: none;
+    outline:none;
+    background-color: transparent;
+    margin-left: 130px;
+
+}
+.remove-btn:focus{
+    outline: none;
+}
+.favAddtocart{
+    margin-top: 75px;
+    margin-left:70px;
+    width: 200px;
+    border: none;
+    outline: none;
+    background-color: #C63407;
+    padding: 15px;
+    text-transform: uppercase;
+}
+.favAddtocart:focus{
+    outline: none;
+    background-color:#F35F31 ;
+
+}

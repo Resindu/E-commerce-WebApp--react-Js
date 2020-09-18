@@ -1,0 +1,44 @@
+.form{
+}
+.displayfeild{
+    margin-top: 20px;
+    margin-left:100px ;
+    margin-right: 100px;
+    padding: 20px;
+    width: 800px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+
+
+}
+.displayfeild:focus{
+    outline-color: orange;
+    box-shadow:2px 2px 5px 2px orange;
+
+}
+.contactusContainer{
+    margin-left: 300px;
+}
+.contactusitle{
+    margin-left: 400px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.contactusbtn{
+    width: 800px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background-color: orange;
+    margin-left:100px ;
+    margin-top: 40px;
+    border-radius: 10px;
+
+
+}
+.textarea {
+    height: 150px;
+    padding: 12px 20px;
+    resize: none;
+  }

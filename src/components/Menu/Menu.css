@@ -1,0 +1,18 @@
+.menuUppecase{
+    text-transform: uppercase;
+}
+.munustyle{
+    color: black;
+    text-decoration: none;
+
+}
+.munustyle:hover{
+    color: red;
+    text-decoration: none;
+
+}
+.munustyle:focus{
+    color: red;
+    text-decoration: none;
+
+}

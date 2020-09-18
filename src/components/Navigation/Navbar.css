@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+
+.brandname{
+    font-family: 'Rochester', cursive;
+    font-size: 60px;
+    margin-left: 80px;
+
+}
+
+.navbar{
+    height: 80px;
+}
+.navbar-nav{
+    margin-left: 600px;
+    
+}
+.nav-item{
+    justify-content: space-around;
+    padding: 10px;
+    color: green;
+
+}
+.nav-item:hover{
+    color: red;
+}
+.brandnamelink{
+    text-decoration: none;
+    color: black
+
+}
+.brandnamelink:hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(212, 197, 197);
+
+}
+.brandnamelink:active{
+    color: black;
+}
+.brandnamelink:focus{
+    color: black;
+}
+
+.fa-shopping-cart{
+    margin-left:10px;
+}
+.nav-link{
+    text-transform: uppercase;
+}.nav-link:hover{
+
+}
