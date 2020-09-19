@@ -1,3 +1,6 @@
+You can find this project live through:
+                https://angelsetore-commerce-website.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
